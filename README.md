@@ -12,6 +12,9 @@ JSON e Criar Cards
 - **`jogos.json`**: Arquivo JSON que contém os dados dos jogos a serem exibidos. Ele é lido pelo JavaScript para gerar os cards.
 - **`README.md`**: Este arquivo, que fornece informações sobre o projeto.
 
+# No navegador: 
+![teste](test.png)
+
 ## Como funciona
 
 - O arquivo **`jogos.json`** contém uma lista de objetos com informações sobre os jogos (por exemplo, nome, imagem, descrição, etc.).
