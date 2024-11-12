@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "The Legend of Zelda: Breath of the wild",
+        "imagem": "https://th.bing.com/th/id/OIP.ziDzdKF74XfLXpBRSgTjFwDEE-?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nome": "Minecraft",
+        "imagem": "https://images1.kabum.com.br/produtos/fotos/456281/minecraft-legends-produto-digital_1681407148_g.jpg"
+    },
+    {
+        "nome": "Fortnite",
+        "imagem": "https://www.mobygames.com/images/covers/l/477922-fortnite-battle-royale-xbox-one-front-cover.png"
+    },
+    {
+        "nome": "Among Us",
+        "imagem": "https://cdn.mobygames.com/covers/9710602-among-us-windows-apps-front-cover.png"
+    },
+    {
+        "nome": "League of Legends",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/91oh%2BMLIDzL.jpg"
+    },
+    {
+        "nome": "Valorant",
+        "imagem": "https://th.bing.com/th/id/OIP.DDIlzsygd0v0jJuSPN6JfgHaJ4?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nome": "Animal Crossing: New Horizons",
+        "imagem": "https://th.bing.com/th/id/OIP.SUymZZpQi15i2b_f4oH-XgHaKn?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nome": "Call of Duty: Warzone",
+        "imagem": "https://image.api.playstation.com/vulcan/img/rnd/202104/2223/y7WlHCbuRYvW5tfEMtU8IJ6K.png"
+    },
+    {
+        "nome": "FIFA 21",
+        "imagem": "https://th.bing.com/th/id/OIP.x313CcSfbUNdroMYBrcnrwHaFc?rs=1&pid=ImgDetMain"
+    },
+    {
+        "nome": "Rocket League",
+        "imagem": "https://images.hdqwalls.com/download/rocket-league-season-2-gy-2880x1800.jpg"
+    }
+]
